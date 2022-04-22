@@ -70,7 +70,7 @@ WSGI_APPLICATION = 'student_management_system.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME' : 'new',
+        'NAME' : 'ecampus_app',
         'USER' : 'postgres',
         'PASSWORD' : 'anirudh27',
         'HOST' : 'localhost',
